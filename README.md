@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TheoEtheooo
-- 👀 I’m interested in making games in ✨ Godot ✨
-- 🌱 I’m currently learning ✨ C++ ✨ and some retro-styled 3D modeling in ✨ Blender/PicoCAD ✨
-- 📫 How to reach me? You can reach me by sending a dm to on discord! ✨ My tag: Theo Etheooo 👀#4590 ✨
+👋 Hi, I’m Aleks! I'm a teenage photographer who is also interested in coding. I'll be publishing some of my projects here! 
 
+See ya!
 <!---
 TheoEtheooo/TheoEtheooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
